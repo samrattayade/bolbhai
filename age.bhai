@@ -3,4 +3,10 @@ bhai ye hai a=21;
 agar bhai(a>18){
 bol bhai "18 Se uppar";
 }
+nahi to bhai(a<18){
+bol bhai "18 se chhota";
+}
+warna bhai{
+bol bhai"18 ";
+}
 bye bhai
