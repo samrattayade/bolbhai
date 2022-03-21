@@ -1,0 +1,6 @@
+hi bhai
+bol bhai "variable";
+bhai ye hai a="value:";
+bhai ye hai b=120;
+bol bhai a,b;
+bye bhai
